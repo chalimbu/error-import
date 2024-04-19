@@ -2,7 +2,7 @@
 import com.fasterxml.jackson.core.type.TypeReference
 import com.fasterxml.jackson.databind.ObjectMapper
 import java.io.File
-
+import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
 
 object DataGeneration {
     private val objectMapper = ObjectMapper()
