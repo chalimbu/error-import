@@ -1,0 +1,16 @@
+{
+  "content": [
+    {
+      "username": "xxxx",
+      "queryHash": -234324,
+      "query": "query 123"
+    },
+    {
+      "username": "xxxx2",
+      "queryHash": -6546,
+      "query": "query 456"
+
+    }
+  ],
+  "count": 1311
+}
